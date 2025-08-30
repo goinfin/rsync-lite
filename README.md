@@ -1,2 +1,2 @@
-# rsync-snap
-Increment backups through 'rsync --link-dest' with log rotation and checking.
+# rsync-lite
+Simple backup: mirror of directory + versions of changed/deleted files (rsync --backup/--backup-dir).

@@ -1,0 +1,5 @@
+# caches and trash
+**/.cache/
+**/.venv/
+**/*.tmp
+**/*.swp
