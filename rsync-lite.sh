@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: MIT
 set -euo pipefail
 # rsync-lite.sh - mirror + versions of changes throgh rsync --backup/--backup-dir
 # Requirements: rsync 3.x, bash, coreutils, findutils
